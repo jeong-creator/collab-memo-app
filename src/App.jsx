@@ -2,8 +2,10 @@ import './styles/App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>협업 메모 시작!</h1>
+    <div className="text-center mt-10">
+      <h1 className="text-4xl font-bold text-blue-500 underline">
+        Tailwind 적용 완료!
+      </h1>
     </div>
   );
 }
